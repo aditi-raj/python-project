@@ -1,3 +1,3 @@
-# pyhton-project
+# python-project
 
 seco commit
